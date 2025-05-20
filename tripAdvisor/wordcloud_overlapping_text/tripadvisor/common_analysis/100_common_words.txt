@@ -1,0 +1,3 @@
+64
+
+{'bonito', 'recomendable', 'arquitectura', 'iglesia', 'paseo', 'recorrido', 'restaurante', 'comida', 'tour', 'historia', 'bello', 'familia', 'méxico', 'precio', 'museo', 'experiencia', 'hermoso'}

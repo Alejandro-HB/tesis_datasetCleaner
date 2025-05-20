@@ -1,0 +1,3 @@
+189
+
+{'mexicano', 'diverso', 'atractivo', 'historia', 'construcción', 'experiencia', 'artesanía', 'variedad', 'café', 'tour', 'iglesia', 'comida', 'cultura', 'limpio', 'color', 'hermoso', 'edificio', 'arquitectura', 'antiguo', 'viaje', 'templo', 'familia', 'museo', 'restaurante', 'admirar', 'pintura', 'bello'}

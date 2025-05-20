@@ -1,0 +1,3 @@
+223
+
+{'detailed', 'area sunny', 'theater indoor', 'plant', 'horizon natural', 'volleyball court', 'church outdoor', 'jewelry shop', 'ticket booth', 'foliage leaf', 'food', 'movie theater', 'area natural', 'eating', 'fast food restaurant', 'hat', 'natural history', 'people standing', 'street', 'open area', 'wooden', 'light cloth', 'church', 'beauty salon', 'history museum', 'water park', 'light manmade', 'picture', 'color scheme', 'horizon sunny', 'bakery shop', 'area cloth', 'museum', 'fabric store', 'tourism poster', 'candy store', 'tree foliage', 'courtyard'}

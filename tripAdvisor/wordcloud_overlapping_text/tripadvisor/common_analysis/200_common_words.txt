@@ -1,0 +1,3 @@
+127
+
+{'plaza', 'pintura', 'limpio', 'edificio', 'bello', 'hermoso', 'iglesia', 'viaje', 'méxico', restaurante', 'ambiente', 'arquitectura', 'historia', 'mexicano', 'visitante', 'belleza', 'comida'}

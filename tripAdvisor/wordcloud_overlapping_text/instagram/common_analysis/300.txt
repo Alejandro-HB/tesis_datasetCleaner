@@ -1,0 +1,3 @@
+136
+
+{'water park', 'kindergarden classroom', 'area cloth', 'tiktok video', 'light manmade', 'movie theater', 'color scheme', 'bakery shop', 'beauty salon', 'painting', 'colorful', 'cluttered space', 'sunny horizon', 'flower', 'area natural', 'open area', 'inspired', 'candy store', 'jewelry shop', 'church outdoor', 'courtyard', 'ice skating', 'picture', 'eating', 'volleyball court', 'hat', 'manmade indoor'}

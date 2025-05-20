@@ -1,0 +1,3 @@
+316
+
+{'pintoresco', 'cultura', 'artesanía', 'caminata', 'zócalo', 'recorrido', 'turístico', 'música', 'hotel', 'bar', 'edificio', 'museo', 'familiar', 'arte', 'oro', 'centro', 'antiguo', 'bebida', 'méxico', 'volcán', 'hermoso lugar', 'colonial', 'tradición', 'amplio', 'amable', 'limpio', 'precioso', 'variedad', 'catedral', 'belleza', 'centro histórico', 'barato', 'arquitectura', 'joya', 'cómodo', 'comida', 'turista', 'ambiente', 'genial', 'magnífico', 'centro comercial', 'paisaje', 'delicioso', 'templo', 'restaurante', 'pintura', 'bonito lugar'} 

@@ -1,0 +1,3 @@
+88
+
+{'church indoor', 'open area', 'area cloth', 'natural light', 'flower', 'tree', 'light manmade', 'cluttered space', 'jail cell', 'area manmade', 'color scheme', 'volleyball court', 'colorful', 'area sunny', 'inspired', 'image', 'area natural', 'group peaople', 'museum', 'beautiful', 'candy store'}
